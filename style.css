@@ -127,7 +127,7 @@
 }
 
 .animated-icon1 span {
-    background: #e65100;
+    background: #DB3654;
 }
 
 .animated-icon1 span:nth-child(1) {
@@ -161,4 +161,20 @@
     -moz-transform: rotate(-135deg);
     -o-transform: rotate(-135deg);
     transform: rotate(-135deg);
+}
+
+.navbar-light .navbar-toggler{
+    color: transparent !important;
+    border-color: transparent !important;
+}
+
+footer{
+    margin-top: 27px;
+    border-top: 1px solid #bbbbbb;
+    padding: 15px;
+    width: 100%;
+}
+
+.justify-content-between {
+    justify-content: space-between !important;
 }
