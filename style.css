@@ -1,3 +1,6 @@
+button{
+    outline:none !important;
+}
 .headLogin{
     width: 100%;
 }
